@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thank You App</string>
+    <string name="thank_you_message">شكرا جزيلا</string>
+    <string name="app_version">الإصدار 1.0.0</string>
+</resources>
